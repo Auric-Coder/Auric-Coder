@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript, C, C++
 - ✨ I'm proficient in Python, HTML 5, CSS, SQL, Linux  
 - 💞️ I’m looking to collaborate on Python projects, website handling
-- 📫 How to reach me ?? -->> <a href='https://www.linkedin.com/in/hemanga-kashyap-086b09324'>My Linkedin Account</a>
+- 📫 How to reach me ?? -->> <a href='https://www.linkedin.com/in/hemanga-kashyap-086b09324'>My Linkedin Profile</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: GitHub’s first commit was made on October 19, 2008!
 
