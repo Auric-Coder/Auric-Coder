@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Auric-Coder<br>👀 I’m interested in developing code, Graphic desgining<br>🌱 I’m currently learning Javascript, C, C++<br>✨ I'm proficient in Python, HTML 5, CSS, SQL, Linux<br>💞️ I’m looking to collaborate on Python projects, website handling<br>📫 How to reach me ?? -->> My Linkedin Profile<br>😄 Pronouns: He/Him<br>⚡ Fun fact: GitHub’s first commit was made on October 19, 2008!
+👋 Hi, I’m @Auric-Coder<br>👀 I’m interested in developing code, Graphic desgining<br>🌱 I’m currently learning Javascript, C, C++<br>✨ I'm proficient in Python, HTML 5, CSS, SQL, Linux<br>💞️ I’m looking to collaborate on Python projects, website handling<br>😄 Pronouns: He/Him<br>⚡ Fun fact: GitHub’s first commit was made on October 19, 2008!
 
 
 ## 🌐 Socials:
