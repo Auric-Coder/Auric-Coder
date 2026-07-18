@@ -32,16 +32,14 @@
 
 ## 🪐 About Me
 
-```yaml
-role: "AI/ML Engineer in training — B.Tech CSE (AI/ML), Lovely Professional University"
-graduation: 2028
-focus: ["Machine Learning", "Retrieval-Augmented Generation", "Applied Data Science"]
-philosophy: "Ship end-to-end, not just notebooks — from model to deployed product."
-currently:
-  building: "Production-grade ML applications with real deployment pipelines"
-  sharpening: "Probability, Linear Algebra & Optimization — the math under the hood"
-  competing: "DSA, SQL & quantitative problem solving"
-```
+<div align="center">
+<table>
+<tr>
+<td valign="top"><img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/hemanga-ascii.svg" width="440"/></td>
+<td valign="top"><img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/info-card.svg" width="440"/></td>
+</tr>
+</table>
+</div>
 
 I'm a second-year Computer Science undergrad specializing in AI/ML, focused on building systems that go beyond a Jupyter notebook — full pipelines from data to a deployed, usable product. I care about retrieval-augmented generation, applied ML for real-world classification problems, and writing code that's clean enough to hand off to someone else.
 
