@@ -35,8 +35,8 @@
 <div align="center">
 <table>
 <tr>
-<td valign="top"><img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/hemanga-ascii.svg" width="440"/></td>
-<td valign="top"><img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/info-card.svg" width="440"/></td>
+<td valign="top"><img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/hemanga-ascii.svg" width="320"/></td>
+<td valign="top"><img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/info-card.svg" width="500"/></td>
 </tr>
 </table>
 </div>
