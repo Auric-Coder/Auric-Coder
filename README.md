@@ -8,13 +8,13 @@
 
 <br/>
 
-![Academic](https://img.shields.io/badge/CGPA-8.64%2F10-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Academic](https://img.shields.io/badge/CGPA-8.62%2F10-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Degree](https://img.shields.io/badge/B.Tech-AI%2FML-4C1D95?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Location](https://img.shields.io/badge/Based%20in-Assam%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://multidocchats.streamlit.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://www.hemangakashyap.in/en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemangakashyap88)
 [![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemangakashyap28@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Auric-Coder)
@@ -41,7 +41,7 @@
 </table>
 </div>
 
-I'm a second-year Computer Science undergrad specializing in AI/ML, focused on building systems that go beyond a Jupyter notebook — full pipelines from data to a deployed, usable product. I care about retrieval-augmented generation, applied ML for real-world classification problems, and writing code that's clean enough to hand off to someone else.
+I'm a third-year Computer Science undergrad specializing in AI/ML, focused on building systems that go beyond a Jupyter notebook — full pipelines from data to a deployed, usable product. I care about retrieval-augmented generation, applied ML for real-world classification problems, and writing code that's clean enough to hand off to someone else.
 
 **🎯 Open to:** ML/Data Science internships · Research collaborations · AI/ML & full-stack projects
 
@@ -163,11 +163,9 @@ A classification system that flags potentially fraudulent auto insurance claims 
 
 <div align="center">
 
-<!-- TODO: replace USERNAME placeholders with your actual handles -->
-[![LeetCode](https://img.shields.io/badge/LeetCode-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/USERNAME)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-5B21B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/USERNAME)
-[![HackerRank](https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/HemangaCoder)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-5B21B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/hemangaka8200)
+[![HackerRank](https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/hemangakashyap28)
 
 </div>
 
@@ -234,7 +232,7 @@ open_to:
 [![Gmail](https://img.shields.io/badge/hemangakashyap28%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemangakashyap28@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/hemangakashyap88-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemangakashyap88)
 [![GitHub](https://img.shields.io/badge/Auric--Coder-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Auric-Coder)
-[![Portfolio](https://img.shields.io/badge/MultiDocChat_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://multidocchats.streamlit.app)
+[![Portfolio](https://img.shields.io/badge/hemangakashyap.in-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://www.hemangakashyap.in/en)
 
 </div>
 
