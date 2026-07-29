@@ -15,7 +15,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://www.hemangakashyap.in/en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemangakashyap88)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemangakashyap)
 [![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemangakashyap28@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Auric-Coder)
 [![X](https://img.shields.io/badge/X-1e1b4b?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AuricKashyap)
@@ -123,7 +123,7 @@ An ML-powered web app that flags at-risk students from academic and behavioral d
 | | |
 |---|---|
 | **Stack** | Flask · Scikit-learn · Jinja2 |
-| **Performance** | **91.6% ROC-AUC** |
+| **Performance** | **92.8% ROC-AUC** |
 | **Pipeline** | Form input → `predict_proba()` → risk classification → rendered result |
 | **Impact** | Early-warning tool for academic institutions |
 
@@ -230,7 +230,7 @@ open_to:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/hemangakashyap28%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemangakashyap28@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/hemangakashyap88-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemangakashyap88)
+[![LinkedIn](https://img.shields.io/badge/hemangakashyap-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemangakashyap)
 [![GitHub](https://img.shields.io/badge/Auric--Coder-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Auric-Coder)
 [![Portfolio](https://img.shields.io/badge/hemangakashyap.in-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://www.hemangakashyap.in/en)
 
