@@ -87,7 +87,7 @@ I'm a third-year Computer Science undergrad specializing in AI/ML, focused on bu
 |---|:---:|---|
 | **Classical ML** | ⭐⭐⭐⭐☆ | Regression, classification, ensemble learning (XGBoost), model evaluation |
 | **Feature Engineering** | ⭐⭐⭐⭐☆ | Preprocessing, dimensionality reduction, pipeline design |
-| **RAG / LLM Applications** | ⭐⭐⭐⭐☆ | LangChain, vector stores (ChromaDB), embedding models, LLM inference APIs |
+| **RAG / LLM Applications** | ⭐⭐⭐⭐☆ | LangChain, hybrid retrieval (vector + BM25), evaluation (RAGAS), LLM inference APIs |
 | **Model Deployment** | ⭐⭐⭐⭐☆ | Flask & Streamlit apps, prediction pipelines, cloud-hosted demos |
 | **Unsupervised Learning** | ⭐⭐⭐☆☆ | Clustering, dimensionality reduction |
 | **DSA & SQL** | ⭐⭐⭐⭐☆ | Competitive-programming background, query optimization |
@@ -97,20 +97,22 @@ I'm a third-year Computer Science undergrad specializing in AI/ML, focused on bu
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>📄 MultiDocChat — Cross-File Document Chat Assistant</b></summary>
+<summary><b>📄 MultiDocChat v2 — Document Intelligence & RAG Platform</b></summary>
 <br/>
 
-A RAG-based assistant that lets users chat across multiple uploaded documents simultaneously, with per-source retrieval so smaller files aren't drowned out by larger ones.
+A production-grade Document Intelligence and RAG platform for attributed question answering, automated document comparison, quantitative RAG evaluation, and collection analytics across multi-format documents and live web pages — built on a 100% free, zero-paid-API stack.
 
 | | |
 |---|---|
 | **Stack** | LangChain · ChromaDB · Streamlit · NVIDIA NIM (`meta/llama-3.1-8b-instruct`) |
-| **Embeddings** | Local `all-MiniLM-L6-v2` (no external embedding API dependency) |
-| **Key Engineering** | Per-source retrieval balancing to prevent large-document dominance |
+| **Retrieval** | Hybrid search — ChromaDB dense vectors + custom BM25 Okapi keyword index, min-max normalized and fused |
+| **Embeddings** | Local `all-MiniLM-L6-v2` (offline, no external embedding API dependency) |
+| **Key Engineering** | Two-stage source conflict detection · multi-factor confidence scoring · automated RAGAS scorecard (Faithfulness, Relevancy, Precision, Recall) |
+| **Testing** | **34/34 passing** automated unit tests across retrieval, indexing, memory, and conflict detection |
 | **Deployment** | Live on Streamlit Community Cloud |
 | **Live Demo** | [multidocchats.streamlit.app](https://multidocchats.streamlit.app) |
 
-Solved a real retrieval-quality problem: naive similarity search let large documents flood the context window. Rebalanced retrieval to pull proportionally from each source, keeping small-file content visible to the LLM.
+v2 rebuilt the platform around hybrid retrieval instead of pure vector search — fusing dense embeddings with a from-scratch BM25 keyword index closes the gap on queries where exact terms matter more than semantic similarity. Also added dual ingestion (local files + live web URLs), a document diff/comparison engine with LLM-generated executive summaries, and a Plotly analytics dashboard for collection-level insight.
 
 </details>
 
