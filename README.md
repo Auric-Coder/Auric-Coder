@@ -190,7 +190,7 @@ A classification system that flags potentially fraudulent auto insurance claims 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph-alpha-nine.vercel.app/graph?username=Auric-Coder&theme=radical&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Auric-Coder&theme=radical&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
 
 </div>
 
