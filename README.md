@@ -177,10 +177,10 @@ A classification system that flags potentially fraudulent auto insurance claims 
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Auric-Coder&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Auric-Coder&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=Auric-Coder&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Auric-Coder&theme=radical&hide_border=true&layout=compact&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Auric-Coder&theme=radical&hide_border=true&layout=compact&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
 
 </div>
 
@@ -190,7 +190,7 @@ A classification system that flags potentially fraudulent auto insurance claims 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Auric-Coder&theme=radical&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph-alpha-nine.vercel.app/graph?username=Auric-Coder&theme=radical&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
 
 </div>
 
