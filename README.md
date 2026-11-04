@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hemanga%20Kashyap&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/banner.svg" alt="Hemanga Kashyap, AI/ML engineer" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%7C+B.Tech+CSE+%E2%80%94+LPU;Building+RAG+Pipelines+%26+ML+Systems;LangChain+%C3%97+ChromaDB+%C3%97+Scikit-learn+%C3%97+XGBoost;Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Hybrid+retrieval%3A+dense+vectors+%2B+BM25;DropoutQI+%E2%80%94+92.8%25+ROC-AUC;MultiDocChat+v2+%E2%80%94+34%2F34+tests+passing;Turning+raw+data+into+decisions" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 ![Academic](https://img.shields.io/badge/CGPA-8.62%2F10-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Degree](https://img.shields.io/badge/B.Tech-AI%2FML-4C1D95?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -26,9 +26,15 @@
 ![Followers](https://img.shields.io/github/followers/Auric-Coder?label=Followers&style=flat-square&color=7C3AED)
 ![Stars](https://img.shields.io/github/stars/Auric-Coder?label=Stars&style=flat-square&color=A78BFA)
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/skills.svg" alt="Skills" width="100%"/>
+
 </div>
 
-<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/divider.svg" width="100%" alt=""/>
+</div>
 
 ## 🪐 About Me
 
@@ -45,7 +51,9 @@ I'm a third-year Computer Science undergrad specializing in AI/ML, focused on bu
 
 **🎯 Open to:** ML/Data Science internships · Research collaborations · AI/ML & full-stack projects
 
-<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/divider.svg" width="100%" alt=""/>
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -79,7 +87,9 @@ I'm a third-year Computer Science undergrad specializing in AI/ML, focused on bu
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/divider.svg" width="100%" alt=""/>
+</div>
 
 ## 🧠 AI/ML Expertise
 
@@ -92,7 +102,9 @@ I'm a third-year Computer Science undergrad specializing in AI/ML, focused on bu
 | **Unsupervised Learning** | ⭐⭐⭐☆☆ | Clustering, dimensionality reduction |
 | **DSA & SQL** | ⭐⭐⭐⭐☆ | Competitive-programming background, query optimization |
 
-<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/divider.svg" width="100%" alt=""/>
+</div>
 
 ## 🚀 Featured Projects
 
@@ -146,7 +158,9 @@ A classification system that flags potentially fraudulent auto insurance claims 
 
 </details>
 
-<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/divider.svg" width="100%" alt=""/>
+</div>
 
 ## 🏆 Achievements
 
@@ -159,7 +173,9 @@ A classification system that flags potentially fraudulent auto insurance claims 
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/divider.svg" width="100%" alt=""/>
+</div>
 
 ## 💻 Coding Profiles
 
@@ -171,7 +187,9 @@ A classification system that flags potentially fraudulent auto insurance claims 
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/divider.svg" width="100%" alt=""/>
+</div>
 
 ## 📊 GitHub Analytics
 
@@ -184,7 +202,9 @@ A classification system that flags potentially fraudulent auto insurance claims 
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/divider.svg" width="100%" alt=""/>
+</div>
 
 ## 📈 Contribution Activity
 
@@ -196,16 +216,15 @@ A classification system that flags potentially fraudulent auto insurance claims 
 
 <br/>
 
-<!-- Requires a one-time setup: a repo named exactly `Auric-Coder/Auric-Coder` with the
-     Platane/snk GitHub Action generating this SVG on an `output` branch.
-     See setup note below — until that's done, this image will stay broken. -->
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/output/github-contribution-grid-snake.svg)
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/divider.svg" width="100%" alt=""/>
+</div>
 
 ## 🔭 Current Focus
 
@@ -225,7 +244,9 @@ open_to:
   - Open-source AI/ML contributions
 ```
 
-<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/divider.svg" width="100%" alt=""/>
+</div>
 
 ## 📫 Connect
 
@@ -236,14 +257,8 @@ open_to:
 [![GitHub](https://img.shields.io/badge/Auric--Coder-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Auric-Coder)
 [![Portfolio](https://img.shields.io/badge/hemangakashyap.in-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://www.hemangakashyap.in/en)
 
-</div>
-
 <br/>
 
-<div align="center">
-
-*"Models don't ship themselves — pipelines do."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/footer.svg" alt="Models don’t ship themselves — pipelines do." width="100%"/>
 
 </div>
