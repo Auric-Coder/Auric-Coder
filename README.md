@@ -36,7 +36,8 @@
 <img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/divider.svg" width="100%" alt=""/>
 </div>
 
-## 🪐 About Me
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/sections/about.svg" alt="About Me" width="100%"/>
+
 
 <div align="center">
 <table>
@@ -55,7 +56,8 @@ I'm a third-year Computer Science undergrad specializing in AI/ML, focused on bu
 <img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/divider.svg" width="100%" alt=""/>
 </div>
 
-## 🛠️ Tech Stack
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/sections/tech-stack.svg" alt="Tech Stack" width="100%"/>
+
 
 <div align="center">
 
@@ -91,7 +93,8 @@ I'm a third-year Computer Science undergrad specializing in AI/ML, focused on bu
 <img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/divider.svg" width="100%" alt=""/>
 </div>
 
-## 🧠 AI/ML Expertise
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/sections/expertise.svg" alt="AI/ML Expertise" width="100%"/>
+
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
@@ -106,7 +109,8 @@ I'm a third-year Computer Science undergrad specializing in AI/ML, focused on bu
 <img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/divider.svg" width="100%" alt=""/>
 </div>
 
-## 🚀 Featured Projects
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/sections/projects.svg" alt="Featured Projects" width="100%"/>
+
 
 <details>
 <summary><b>📄 MultiDocChat v2 — Document Intelligence & RAG Platform</b></summary>
@@ -125,6 +129,27 @@ A production-grade Document Intelligence and RAG platform for attributed questio
 | **Live Demo** | [multidocchats.streamlit.app](https://multidocchats.streamlit.app) |
 
 v2 rebuilt the platform around hybrid retrieval instead of pure vector search — fusing dense embeddings with a from-scratch BM25 keyword index closes the gap on queries where exact terms matter more than semantic similarity. Also added dual ingestion (local files + live web URLs), a document diff/comparison engine with LLM-generated executive summaries, and a Plotly analytics dashboard for collection-level insight.
+
+</details>
+
+<details>
+<summary><b>📝 PrecisAI — Neural Text Summarization from Scratch</b></summary>
+<br/>
+
+An extractive and abstractive summarizer for long news articles and Indian government circulars. The abstractive model is a BiGRU encoder-decoder with Bahdanau and Luong attention, implemented from scratch in PyTorch and benchmarked against a TextRank baseline using ROUGE.
+
+| | |
+|---|---|
+| **Stack** | PyTorch · Streamlit · `rouge-score` · Python 3.11 |
+| **Models** | BiGRU encoder + GRU decoder with Bahdanau and Luong attention, compared with a no-attention seq2seq and a TextRank extractive baseline |
+| **Decoding** | Length-normalized beam search with minimum length and coverage penalty · trigram blocking · attention-guided `<unk>` replacement |
+| **Performance** | **30.61 ROUGE-1** (tuned beam 4), **9.17 ROUGE-2** and **20.41 ROUGE-L** (tuned beam 6) on CNN/DailyMail, n=500 |
+| **Quality fixes** | `<unk>` rate **4.4% → 0.00%** · trigram repetition **91.6% → 3.8%** (tuned greedy decoding) |
+| **Real-world test** | 9 official PIB press releases from 9 ministries, with a policy-preservation audit for numbers, schemes, dates, and percentages |
+| **Interface** | Dual-mode Streamlit dashboard with attention heatmaps and compression metrics |
+| **Repository** | [Auric-Coder/PrecisAI](https://github.com/Auric-Coder/PrecisAI) |
+
+Everything from the encoder and attention layers to beam search and the evaluation pipeline is written by hand. Decoding-time tuning lifted ROUGE-1 by about 2 points over default beam search, and the TextRank baseline still leads on ROUGE-1 (35.80), so the comparison is reported as measured. Mixed-precision training with early stopping keeps runs fast, and sentence-aware chunking handles documents longer than the 400-token context window.
 
 </details>
 
@@ -162,7 +187,8 @@ A classification system that flags potentially fraudulent auto insurance claims 
 <img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/divider.svg" width="100%" alt=""/>
 </div>
 
-## 🏆 Achievements
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/sections/achievements.svg" alt="Achievements" width="100%"/>
+
 
 <div align="center">
 
@@ -177,7 +203,8 @@ A classification system that flags potentially fraudulent auto insurance claims 
 <img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/divider.svg" width="100%" alt=""/>
 </div>
 
-## 💻 Coding Profiles
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/sections/coding-profiles.svg" alt="Coding Profiles" width="100%"/>
+
 
 <div align="center">
 
@@ -191,7 +218,8 @@ A classification system that flags potentially fraudulent auto insurance claims 
 <img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/divider.svg" width="100%" alt=""/>
 </div>
 
-## 📊 GitHub Analytics
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/sections/analytics.svg" alt="GitHub Analytics" width="100%"/>
+
 
 <div align="center">
 
@@ -206,7 +234,8 @@ A classification system that flags potentially fraudulent auto insurance claims 
 <img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/divider.svg" width="100%" alt=""/>
 </div>
 
-## 📈 Contribution Activity
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/sections/contribution.svg" alt="Contribution Activity" width="100%"/>
+
 
 <div align="center">
 
@@ -226,7 +255,8 @@ A classification system that flags potentially fraudulent auto insurance claims 
 <img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/divider.svg" width="100%" alt=""/>
 </div>
 
-## 🔭 Current Focus
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/sections/focus.svg" alt="Current Focus" width="100%"/>
+
 
 ```yaml
 learning:
@@ -248,7 +278,8 @@ open_to:
 <img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/divider.svg" width="100%" alt=""/>
 </div>
 
-## 📫 Connect
+<img src="https://raw.githubusercontent.com/Auric-Coder/Auric-Coder/main/assets/sections/connect.svg" alt="Connect" width="100%"/>
+
 
 <div align="center">
 
